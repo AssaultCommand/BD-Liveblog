@@ -1,0 +1,126 @@
+body {
+	font-family: "Myriad Pro"!important;
+	font-weight: 400!important;
+	background-color: #ffffff;
+	color: #525252;
+}
+
+.container {
+	position: absolute;
+	width: 375px;
+	height: 667px;
+	border: 1px solid black;
+}
+
+#logo {
+	position: absolute;
+	top: 80px;
+	left: 95px;
+	width: 50%;
+}
+
+#logoklein {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	width: 20%;
+}
+
+.form{
+	position: absolute;
+	top: 400px;
+}
+
+input {
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid #cf111d;
+    width: 300px;
+    color: grey;
+    font-size: 20px;
+    margin: 30px;
+}
+
+.menu {
+	background-color: #cf111d;
+	position: fixed;
+	top: 600px;
+	width: 375px;
+	height: 67px;
+}
+
+.content {
+	padding: 20px;
+}
+
+
+#titel {
+	display: inline;
+	color: white;
+	padding-left: 130px;
+	text-align: center;
+}
+
+.content a {
+	text-decoration: none!important;
+}
+
+.lijst {
+	position: absolute;
+	top: 100px;
+	left: 20px;
+}
+
+#item {
+	margin-top: 50px;
+	padding: 20px;
+	width: 290px;
+	border-bottom: 2px solid #cf111d;
+}
+
+#blog {
+	display: inline;
+}
+
+#icon {
+	float: right;
+}
+
+#icon a {
+	text-decoration: none;
+	color: black;
+}
+
+#pen {
+	display: inline;
+	width: 40%;
+	margin-right: 10px;
+}
+
+#plus {
+	display: inline;
+}
+
+#hoofdtitel {
+	margin-top: 130px;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+#maakliveblog {
+	margin-top: 130px;
+	margin-left: 30px;
+	text-align: center;
+	font-size: 1.5em;
+	padding: 10px;
+	color: #525252;
+	border: 2px solid #cf111d;
+	width: 290px;
+}
+
+#maakliveblog a{
+	text-decoration: none;
+	text-align: center;
+	color: #525252;
+}
